@@ -8,7 +8,7 @@ Mails = [
         'counts': 0
     },
     {
-        "mail": "2683747644@qq.com",
+        "mail": "670551763@qq.com",
         "auth": "rewhrnednwjjebig",
         'smtp': "smtp.qq.com",
         'counts': 0
